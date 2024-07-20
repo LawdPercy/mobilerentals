@@ -62,6 +62,7 @@ ul li {
 }
 .products{
     display: flex;
+    flex-wrap: wrap;
 }
 
 .product:hover {
