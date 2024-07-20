@@ -1,7 +1,7 @@
 /* Home Page Styles */
 header {
     position: relative;
-    background: URL(./images/hero-bg.jpg) center/cover no-repeat;
+    background: URL(/images/hero-bg.jpg) center/cover no-repeat;
     text-align: center;
     padding: 100px 20px;
 }
